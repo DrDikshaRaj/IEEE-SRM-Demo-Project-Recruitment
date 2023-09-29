@@ -1,0 +1,118 @@
+
+#navbar{
+    display: flex;
+    padding-left: 40px;
+
+}
+#navbar ul{
+    display: flex;
+    align-items: center;
+    width: 1600px;
+    height: 34px;
+    top: 42px;
+    left: 520px;
+
+}
+#navbar ul li{
+    list-style: none;
+    font-size: 16px;
+}
+#navbar ul li a{
+    display: block;
+    padding: 5px 30px;
+    right: 300px;
+}
+.title{
+    width: 20%;
+}
+.image1{
+    width: 60%;
+}
+.texts{
+    width: 40%;
+}
+.text{
+    display: flex;
+    padding-left: 40px;
+    width: 80%;
+}
+.view{
+    color: red;
+    text-align: end;
+    width: 80%;
+}
+.price{
+    width: 18%;
+    /* padding-bottom: 50%; */
+}
+.image{
+    width: 30%;
+}
+.rate{
+    width: 5%;
+}
+.btn{
+    width: 80;
+    background-color: red;
+    color: white;
+}
+.mainpart{
+    display: flex;
+    padding-left: 40px;
+}
+.main {
+    display: flex;
+    padding-left: 40px;
+    padding-bottom: 10%;
+}
+.one{
+    width: 33%;
+}
+.two{
+    width: 33%;
+}
+.three{
+    width: 33%;
+}
+.tap{
+    display: flex;
+}
+.discription{
+    display: flex;
+}
+#body{
+    align-items: center;
+    margin-bottom: 50%;
+    padding-bottom: 50%;
+}
+.top{
+    padding-left: 40px;
+}
+.foot{
+    display: flex;
+    padding-left: 40px;
+    background-color: red;
+    color: white;
+}
+.studio{
+    width: 40%;
+}
+.work{
+    width: 20%;
+}
+.company{
+    width: 20%;
+}
+.contact{
+    width: 20%;
+}
+.first{
+    width: 35%;
+}
+.second{
+
+    width: 10%;
+}
+.third{
+    width: 50%;
+}
